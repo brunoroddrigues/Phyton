@@ -2,6 +2,13 @@
 
 Este repositório contém diversos exercícios em Python para você praticar e melhorar suas habilidades de programação.
 
+![sa](https://github.com/user-attachments/assets/3ce29989-8e1b-4e7c-b2e9-18e157b4080a)
+
+![jjj](https://github.com/user-attachments/assets/a0d24472-4c1e-4539-a002-ba950bac2b47)
+
+![5](https://github.com/user-attachments/assets/8236e5b1-6151-4076-9b39-c021f32d58cd)
+
+
 ## Como usar
 
 1. **Clone o repositório**:
